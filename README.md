@@ -178,11 +178,11 @@ ApiXS_start.py          # Entry point: starts Telegram sessions
 
 ## 📄 License
 
-MIT License — see [LICENSE](LICENSE) for details.
+GNU v3.0 License — see [LICENSE](https://apixs.xselid.ru/license) for details.
 
 ---
 
 ## 🔗 Links
 
-- Live instance: **https://YOUR_DOMAIN**
-- Telegram bot: **@YOUR_BOT**
+- Live instance: **https://apixs.xselid.ru**
+- Telegram bot: **@ApiXS_bot**
